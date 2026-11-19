@@ -25,7 +25,7 @@ export default Object.freeze({
   channel,
   imageUrl: String(
     process.env.BOT_IMAGE_URL ||
-  "https://files.catbox.moe/jymr1x.jpg"
+  "https://res.cloudinary.com/dqqyvozdw/image/upload/v1795120532/yvxzhs6cwqmld0jp0b1z.jpg"
   ).trim(),
   botUrl: String(process.env.BOT_URL || "https://fei-xmd.benfeilab.com").trim()
 });

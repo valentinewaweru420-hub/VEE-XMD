@@ -1,5 +1,5 @@
 export default Object.freeze({
-  botTitle: "🤖 ꜰᴇɪ xᴍᴅ ʙᴏᴛ",
+  botTitle: "🤖 VEE xᴍᴅ ʙᴏᴛ",
   menu: {
     top: "╭━━〔 ",
     titleEnd: " 〕━━┈⊷",
